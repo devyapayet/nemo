@@ -7,8 +7,8 @@
 <table>
 <tr><td align="center"><strong>nemo-dark</strong></td><td align="center"><strong>nemo-light</strong></td></tr>
 <tr>
-<td><img src="/img/screenshot-nemo-dark.png" alt="screenshot of the nemo-dark vim theme" width="180" /></td>
-<td align="center"><img src="/img/screenshot-nemo-light.png" alt="screenshot of the nemo-light vim theme" width="180" /></td>
+<td><img src="/img/screenshot-nemo-dark.png" alt="screenshot of the nemo-dark vim theme" width="270" /></td>
+<td align="center"><img src="/img/screenshot-nemo-light.png" alt="screenshot of the nemo-light vim theme" width="270" /></td>
 </tr>
 </table>
 

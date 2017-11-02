@@ -97,7 +97,7 @@ let g:nemo_light_LineNr = 'off'
       <td style="text-align: left"><img src="http://www.colorhexa.com/bf5858.png" height="24" width="42" /> <code class="highlighter-rouge">bf5858</code></td>
     </tr>
     <tr>
-      <td style="text-align: right"><img src="http://www.colorhexa.com/3f3f54.png" height="24" width="42" /> <code class="highlighter-rouge">3f3f54</code> </td>
+      <td style="text-align: right"><img src="http://www.colorhexa.com/2c2c3b.png" height="24" width="42" /> <code class="highlighter-rouge">2c2c3b</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/e06a26.png" height="24" width="42" /> <code class="highlighter-rouge">e06a26</code> </td>
       <td style="text-align: left"><img src="http://www.colorhexa.com/b56f45.png" height="24" width="42" /> <code class="highlighter-rouge">b56f45</code></td>
     </tr>

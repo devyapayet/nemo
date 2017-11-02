@@ -9,7 +9,7 @@
 
 " GUI colours
 let s:g0 = '1d1d2b'
-let s:g1 = '3f3f54'
+let s:g1 = '2c2c3b'
 let s:g2 = '616175'
 let s:g3 = '77778a'
 let s:g4 = '8b8b9e'
@@ -55,7 +55,7 @@ if has('nvim')
   let g:terminal_color_7 =  '#a3a3b5'
   let g:terminal_color_8 =  '#77778a'
   let g:terminal_color_9 =  '#b56f45'
-  let g:terminal_color_10 = '#3f3f54'
+  let g:terminal_color_10 = '#2c2c3b'
   let g:terminal_color_11 = '#616175'
   let g:terminal_color_12 = '#8b8b9e'
   let g:terminal_color_13 = '#ddddf0'

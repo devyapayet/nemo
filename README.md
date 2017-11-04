@@ -1,3 +1,11 @@
+**This repository has been superseded by [vimspectr](https://github.com/nightsense/vimspectr).**
+
+.
+
+.
+
+.
+
 <h1 id="nemo">nemo</h1>
 
 <p>A vim theme inspired by the <a href="https://zambumon.github.io/projects/nautilus">Nautilus keycap set</a> by Zambumon.</p>
